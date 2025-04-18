@@ -1,0 +1,14 @@
+C:\Users\bru15\codingtest\Player\Player\bin\Debug\net8.0\Player.exe
+C:\Users\bru15\codingtest\Player\Player\bin\Debug\net8.0\Player.deps.json
+C:\Users\bru15\codingtest\Player\Player\bin\Debug\net8.0\Player.runtimeconfig.json
+C:\Users\bru15\codingtest\Player\Player\bin\Debug\net8.0\Player.dll
+C:\Users\bru15\codingtest\Player\Player\bin\Debug\net8.0\Player.pdb
+C:\Users\bru15\codingtest\Player\Player\obj\Debug\net8.0\Player.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bru15\codingtest\Player\Player\obj\Debug\net8.0\Player.AssemblyInfoInputs.cache
+C:\Users\bru15\codingtest\Player\Player\obj\Debug\net8.0\Player.AssemblyInfo.cs
+C:\Users\bru15\codingtest\Player\Player\obj\Debug\net8.0\Player.csproj.CoreCompileInputs.cache
+C:\Users\bru15\codingtest\Player\Player\obj\Debug\net8.0\Player.dll
+C:\Users\bru15\codingtest\Player\Player\obj\Debug\net8.0\refint\Player.dll
+C:\Users\bru15\codingtest\Player\Player\obj\Debug\net8.0\Player.pdb
+C:\Users\bru15\codingtest\Player\Player\obj\Debug\net8.0\Player.genruntimeconfig.cache
+C:\Users\bru15\codingtest\Player\Player\obj\Debug\net8.0\ref\Player.dll
