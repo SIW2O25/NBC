@@ -12,7 +12,6 @@ namespace Player
         public Player? Player = null;
         public Inventory? inventory = null;
         public Shop? shop = null;
-        public Dungeon? dungeon = null;
 
         public void SetPlayer(Player player)
         {
@@ -26,10 +25,6 @@ namespace Player
         public void SetShop(Shop shop)
         {
             this.shop = shop;
-        }
-        public void SetDungeoun(Dungeon dungeon)
-        {
-            this.dungeon = dungeon;
         }
         public void DisplayMenu()
         {

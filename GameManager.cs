@@ -21,14 +21,10 @@
             Shop shop = new Shop();
             shop.SetShopInfo("\\(소)\n\t1000 G", "\\(소)\n\t1200G ", "\\방어력 +5\n\t500G", "\\공격력 +3\\데미지 1~6\n\t800G");
 
-            Dungeon dungeon = new Dungeon();
-            dungeon.SetDungeonInfo("입장제한 Level\\ 1~6", "입장제한 Level\\ 6~14", "입장제한 Level\\ 14~28");
-
             Menu menu = new Menu();
             menu.SetPlayer(player);
             menu.SetInventory(inventory);
             menu.SetShop(shop);
-            menu.SetDungeon(dungeon);
             menu.DisplayMenu();
 
         }
